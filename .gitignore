@@ -14,3 +14,8 @@ build/
 *.egg-info/
 
 .idea
+
+.vscode
+venv
+spiders_tests2
+spider_tests
